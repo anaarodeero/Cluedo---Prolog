@@ -1,0 +1,1953 @@
+?- main.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [rubio,prado,celeste,cuerda,sala_billar,cocina]
+Acusacion
+ - 3: amapola
+ - 3: candelabro
+ - 3: salon
+Jugador 2 nos enseña la carta: candelabro
+
+Acusacion
+ - 3: orquidea
+ - 3: punal
+ - 3: sala_baile
+Jugador 2 nos enseña la carta: punal
+
+Acusacion
+ - 3: amapola
+ - 3: pistola
+ - 3: salon
+Jugador 2 nos enseña la carta: pistola
+
+Acusacion
+ - 3: amapola
+ - 3: herramienta
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: vestibulo
+
+Acusacion
+ - 3: mora
+ - 3: tuberia_plomo
+ - 3: salon
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [mora,tuberia_plomo,salon]
+ACUSACION CORRECTA con un total de 5 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [mora,candelabro,tuberia_plomo,sala_billar,cocina,biblioteca]
+Acusacion
+ - 3: celeste
+ - 3: herramienta
+ - 3: estudio
+Jugador 2 nos enseña la carta: celeste
+
+Acusacion
+ - 3: prado
+ - 3: pistola
+ - 3: salon
+Jugador 2 nos enseña la carta: salon
+
+Acusacion
+ - 3: prado
+ - 3: cuerda
+ - 3: sala_baile
+Jugador 3 nos enseña la carta: prado
+
+Acusacion
+ - 3: orquidea
+ - 2: cuerda
+ - 2: sala_baile
+Jugador 3 nos enseña la carta: sala_baile
+
+Acusacion
+ - 2: orquidea
+ - 2: cuerda
+ - 3: comedor
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [orquidea,cuerda,comedor]
+ACUSACION CORRECTA con un total de 5 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [rubio,amapola,orquidea,punal,herramienta,sala_billar]
+Acusacion
+ - 3: prado
+ - 3: cuerda
+ - 3: estudio
+Jugador 2 nos enseña la carta: prado
+
+Acusacion
+ - 3: mora
+ - 3: pistola
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: vestibulo
+
+Acusacion
+ - 3: celeste
+ - 3: cuerda
+ - 3: comedor
+Jugador 2 nos enseña la carta: cuerda
+
+Acusacion
+ - 3: celeste
+ - 3: candelabro
+ - 3: invernadero
+Jugador 3 nos enseña la carta: invernadero
+
+Acusacion
+ - 2: celeste
+ - 2: candelabro
+ - 3: estudio
+Jugador 2 nos enseña la carta: estudio
+
+Acusacion
+ - 2: celeste
+ - 2: candelabro
+ - 3: biblioteca
+Jugador 3 nos enseña la carta: biblioteca
+
+Acusacion
+ - 2: celeste
+ - 2: candelabro
+ - 3: comedor
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [celeste,candelabro,comedor]
+ACUSACION CORRECTA con un total de 7 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [orquidea,candelabro,pistola,vestibulo,biblioteca,estudio]
+Acusacion
+ - 3: mora
+ - 3: cuerda
+ - 3: cocina
+Jugador 2 nos enseña la carta: cuerda
+
+Acusacion
+ - 3: rubio
+ - 3: tuberia_plomo
+ - 3: sala_baile
+Jugador 2 nos enseña la carta: rubio
+
+Acusacion
+ - 3: amapola
+ - 3: tuberia_plomo
+ - 3: cocina
+Jugador 3 nos enseña la carta: cocina
+
+Acusacion
+ - 2: amapola
+ - 2: tuberia_plomo
+ - 3: sala_baile
+Jugador 2 nos enseña la carta: sala_baile
+
+Acusacion
+ - 2: amapola
+ - 2: tuberia_plomo
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: sala_billar
+
+Acusacion
+ - 2: amapola
+ - 2: tuberia_plomo
+ - 3: invernadero
+Jugador 3 nos enseña la carta: amapola
+
+Acusacion
+ - 3: mora
+ - 2: tuberia_plomo
+ - 2: invernadero
+Jugador 3 nos enseña la carta: mora
+
+Acusacion
+ - 3: prado
+ - 2: tuberia_plomo
+ - 2: invernadero
+Jugador 3 nos enseña la carta: prado
+
+Acusacion
+ - 3: celeste
+ - 2: tuberia_plomo
+ - 2: invernadero
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [celeste,tuberia_plomo,invernadero]
+ACUSACION CORRECTA con un total de 9 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [amapola,orquidea,mora,pistola,herramienta,comedor]
+Acusacion
+ - 3: prado
+ - 3: candelabro
+ - 3: salon
+Jugador 2 nos enseña la carta: prado
+
+Acusacion
+ - 3: rubio
+ - 3: tuberia_plomo
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: tuberia_plomo
+
+Acusacion
+ - 3: rubio
+ - 3: cuerda
+ - 3: invernadero
+Jugador 2 nos enseña la carta: rubio
+
+Acusacion
+ - 3: celeste
+ - 3: candelabro
+ - 3: biblioteca
+Jugador 3 nos enseña la carta: biblioteca
+
+Acusacion
+ - 2: celeste
+ - 2: candelabro
+ - 3: estudio
+Jugador 3 nos enseña la carta: estudio
+
+Acusacion
+ - 2: celeste
+ - 2: candelabro
+ - 3: sala_baile
+Jugador 3 nos enseña la carta: sala_baile
+
+Acusacion
+ - 2: celeste
+ - 2: candelabro
+ - 3: vestibulo
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [celeste,candelabro,vestibulo]
+ACUSACION CORRECTA con un total de 7 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [amapola,punal,pistola,sala_baile,cocina,salon]
+Acusacion
+ - 3: rubio
+ - 3: cuerda
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: cuerda
+
+Acusacion
+ - 3: prado
+ - 3: herramienta
+ - 3: invernadero
+Jugador 3 nos enseña la carta: invernadero
+
+Acusacion
+ - 2: prado
+ - 2: herramienta
+ - 3: comedor
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [prado,herramienta,comedor]
+ACUSACION CORRECTA con un total de 3 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [prado,cuerda,herramienta,sala_baile,salon,estudio]
+Acusacion
+ - 3: orquidea
+ - 3: pistola
+ - 3: biblioteca
+Jugador 2 nos enseña la carta: biblioteca
+
+Acusacion
+ - 3: celeste
+ - 3: candelabro
+ - 3: vestibulo
+Jugador 3 nos enseña la carta: celeste
+
+Acusacion
+ - 3: mora
+ - 2: candelabro
+ - 2: vestibulo
+Jugador 3 nos enseña la carta: vestibulo
+
+Acusacion
+ - 2: mora
+ - 2: candelabro
+ - 3: comedor
+Jugador 2 nos enseña la carta: comedor
+
+Acusacion
+ - 2: mora
+ - 2: candelabro
+ - 3: cocina
+Jugador 2 nos enseña la carta: cocina
+
+Acusacion
+ - 2: mora
+ - 2: candelabro
+ - 3: sala_billar
+Jugador 3 nos enseña la carta: sala_billar
+
+Acusacion
+ - 2: mora
+ - 2: candelabro
+ - 3: invernadero
+Jugador 3 nos enseña la carta: mora
+
+Acusacion
+ - 3: rubio
+ - 2: candelabro
+ - 2: invernadero
+Jugador 3 nos enseña la carta: rubio
+
+Acusacion
+ - 3: amapola
+ - 2: candelabro
+ - 2: invernadero
+Jugador 3 nos enseña la carta: amapola
+
+Acusacion
+ - 3: orquidea
+ - 2: candelabro
+ - 2: invernadero
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [orquidea,candelabro,invernadero]
+ACUSACION CORRECTA con un total de 10 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [rubio,amapola,celeste,mora,pistola,cocina]
+Acusacion
+ - 3: prado
+ - 3: punal
+ - 3: sala_baile
+Jugador 2 nos enseña la carta: sala_baile
+
+Acusacion
+ - 3: orquidea
+ - 3: tuberia_plomo
+ - 3: invernadero
+Jugador 2 nos enseña la carta: tuberia_plomo
+
+Acusacion
+ - 3: orquidea
+ - 3: punal
+ - 3: invernadero
+Jugador 3 nos enseña la carta: invernadero
+
+Acusacion
+ - 2: orquidea
+ - 2: punal
+ - 3: comedor
+Jugador 3 nos enseña la carta: punal
+
+Acusacion
+ - 2: orquidea
+ - 3: herramienta
+ - 2: comedor
+Jugador 3 nos enseña la carta: orquidea
+
+Acusacion
+ - 3: prado
+ - 2: herramienta
+ - 2: comedor
+Jugador 3 nos enseña la carta: comedor
+
+Acusacion
+ - 2: prado
+ - 2: herramienta
+ - 3: sala_billar
+Jugador 3 nos enseña la carta: herramienta
+
+Acusacion
+ - 2: prado
+ - 3: cuerda
+ - 2: sala_billar
+Jugador 2 nos enseña la carta: cuerda
+
+Acusacion
+ - 2: prado
+ - 3: candelabro
+ - 2: sala_billar
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [prado,candelabro,sala_billar]
+ACUSACION CORRECTA con un total de 9 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [celeste,candelabro,sala_billar,comedor,biblioteca,salon]
+Acusacion
+ - 3: prado
+ - 3: pistola
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: vestibulo
+
+Acusacion
+ - 3: amapola
+ - 3: tuberia_plomo
+ - 3: estudio
+Jugador 3 nos enseña la carta: amapola
+
+Acusacion
+ - 3: rubio
+ - 2: tuberia_plomo
+ - 2: estudio
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [rubio,tuberia_plomo,estudio]
+ACUSACION CORRECTA con un total de 3 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [celeste,cuerda,sala_baile,comedor,cocina,biblioteca]
+Acusacion
+ - 3: mora
+ - 3: punal
+ - 3: invernadero
+Jugador 2 nos enseña la carta: mora
+
+Acusacion
+ - 3: prado
+ - 3: candelabro
+ - 3: salon
+Jugador 2 nos enseña la carta: candelabro
+
+Acusacion
+ - 3: prado
+ - 3: punal
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: vestibulo
+
+Acusacion
+ - 3: amapola
+ - 3: punal
+ - 3: invernadero
+Jugador 2 nos enseña la carta: amapola
+
+Acusacion
+ - 3: rubio
+ - 3: pistola
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: sala_billar
+
+Acusacion
+ - 3: prado
+ - 3: tuberia_plomo
+ - 3: estudio
+Jugador 3 nos enseña la carta: prado
+
+Acusacion
+ - 3: orquidea
+ - 2: tuberia_plomo
+ - 2: estudio
+Jugador 3 nos enseña la carta: estudio
+
+Acusacion
+ - 2: orquidea
+ - 2: tuberia_plomo
+ - 3: invernadero
+Jugador 3 nos enseña la carta: tuberia_plomo
+
+Acusacion
+ - 2: orquidea
+ - 3: pistola
+ - 2: invernadero
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [orquidea,pistola,invernadero]
+ACUSACION CORRECTA con un total de 9 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [mora,candelabro,tuberia_plomo,sala_billar,comedor,biblioteca]
+Acusacion
+ - 3: celeste
+ - 3: punal
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: punal
+
+Acusacion
+ - 3: celeste
+ - 3: cuerda
+ - 3: invernadero
+Jugador 2 nos enseña la carta: invernadero
+
+Acusacion
+ - 3: rubio
+ - 3: pistola
+ - 3: cocina
+Jugador 2 nos enseña la carta: cocina
+
+Acusacion
+ - 3: orquidea
+ - 3: herramienta
+ - 3: sala_baile
+Jugador 3 nos enseña la carta: herramienta
+
+Acusacion
+ - 2: orquidea
+ - 3: cuerda
+ - 2: sala_baile
+Jugador 2 nos enseña la carta: cuerda
+
+Acusacion
+ - 2: orquidea
+ - 3: pistola
+ - 2: sala_baile
+Jugador 3 nos enseña la carta: sala_baile
+
+Acusacion
+ - 2: orquidea
+ - 2: pistola
+ - 3: salon
+Jugador 2 nos enseña la carta: salon
+
+Acusacion
+ - 2: orquidea
+ - 2: pistola
+ - 3: estudio
+Jugador 3 nos enseña la carta: estudio
+
+Acusacion
+ - 2: orquidea
+ - 2: pistola
+ - 3: vestibulo
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [orquidea,pistola,vestibulo]
+ACUSACION CORRECTA con un total de 9 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [rubio,amapola,orquidea,celeste,sala_billar,invernadero]
+Acusacion
+ - 3: prado
+ - 3: cuerda
+ - 3: cocina
+Jugador 2 nos enseña la carta: prado
+
+Acusacion
+ - 3: mora
+ - 3: candelabro
+ - 3: cocina
+Jugador 3 nos enseña la carta: candelabro
+
+Acusacion
+ - 2: mora
+ - 3: herramienta
+ - 2: cocina
+Jugador 3 nos enseña la carta: herramienta
+
+Acusacion
+ - 2: mora
+ - 3: punal
+ - 2: cocina
+Jugador 2 nos enseña la carta: punal
+
+Acusacion
+ - 2: mora
+ - 3: tuberia_plomo
+ - 2: cocina
+Jugador 2 nos enseña la carta: tuberia_plomo
+
+Acusacion
+ - 2: mora
+ - 3: cuerda
+ - 2: cocina
+Jugador 3 nos enseña la carta: cuerda
+
+Acusacion
+ - 2: mora
+ - 1.2: pistola
+ - 2: cocina
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [mora,pistola,cocina]
+ACUSACION CORRECTA con un total de 7 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [amapola,orquidea,celeste,mora,tuberia_plomo,invernadero]
+Acusacion
+ - 3: prado
+ - 3: herramienta
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: prado
+
+Acusacion
+ - 3: rubio
+ - 3: cuerda
+ - 3: estudio
+Jugador 2 nos enseña la carta: cuerda
+
+Acusacion
+ - 3: rubio
+ - 3: herramienta
+ - 3: comedor
+Jugador 3 nos enseña la carta: herramienta
+
+Acusacion
+ - 2: rubio
+ - 3: punal
+ - 2: comedor
+Jugador 3 nos enseña la carta: punal
+
+Acusacion
+ - 2: rubio
+ - 3: candelabro
+ - 2: comedor
+Jugador 3 nos enseña la carta: comedor
+
+Acusacion
+ - 2: rubio
+ - 2: candelabro
+ - 3: estudio
+Jugador 2 nos enseña la carta: estudio
+
+Acusacion
+ - 2: rubio
+ - 2: candelabro
+ - 3: cocina
+Jugador 3 nos enseña la carta: candelabro
+
+Acusacion
+ - 2: rubio
+ - 3: pistola
+ - 2: cocina
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [rubio,pistola,cocina]
+ACUSACION CORRECTA con un total de 8 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [amapola,celeste,mora,candelabro,cuerda,cocina]
+Acusacion
+ - 3: orquidea
+ - 3: pistola
+ - 3: comedor
+Jugador 3 nos enseña la carta: comedor
+
+Acusacion
+ - 2: orquidea
+ - 2: pistola
+ - 3: estudio
+Jugador 2 nos enseña la carta: estudio
+
+Acusacion
+ - 2: orquidea
+ - 2: pistola
+ - 3: sala_billar
+Jugador 3 nos enseña la carta: sala_billar
+
+Acusacion
+ - 2: orquidea
+ - 2: pistola
+ - 3: biblioteca
+Jugador 2 nos enseña la carta: biblioteca
+
+Acusacion
+ - 2: orquidea
+ - 2: pistola
+ - 3: salon
+Jugador 3 nos enseña la carta: salon
+
+Acusacion
+ - 2: orquidea
+ - 2: pistola
+ - 3: invernadero
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [orquidea,pistola,invernadero]
+ACUSACION CORRECTA con un total de 6 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [amapola,prado,candelabro,sala_billar,biblioteca,salon]
+Acusacion
+ - 3: rubio
+ - 3: cuerda
+ - 3: cocina
+Jugador 2 nos enseña la carta: cuerda
+
+Acusacion
+ - 3: mora
+ - 3: pistola
+ - 3: comedor
+Jugador 2 nos enseña la carta: mora
+
+Acusacion
+ - 3: celeste
+ - 3: herramienta
+ - 3: cocina
+Jugador 2 nos enseña la carta: cocina
+
+Acusacion
+ - 3: celeste
+ - 3: tuberia_plomo
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: celeste
+
+Acusacion
+ - 3: orquidea
+ - 3: punal
+ - 3: comedor
+Jugador 2 nos enseña la carta: comedor
+
+Acusacion
+ - 3: rubio
+ - 3: punal
+ - 3: sala_baile
+Jugador 3 nos enseña la carta: rubio
+
+Acusacion
+ - 3: orquidea
+ - 2: punal
+ - 2: sala_baile
+Jugador 3 nos enseña la carta: punal
+
+Acusacion
+ - 2: orquidea
+ - 3: herramienta
+ - 2: sala_baile
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [orquidea,herramienta,sala_baile]
+ACUSACION CORRECTA con un total de 8 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [prado,orquidea,punal,sala_baile,cocina,estudio]
+Acusacion
+ - 3: celeste
+ - 3: cuerda
+ - 3: comedor
+Jugador 2 nos enseña la carta: comedor
+
+Acusacion
+ - 3: celeste
+ - 3: tuberia_plomo
+ - 3: invernadero
+Jugador 2 nos enseña la carta: invernadero
+
+Acusacion
+ - 3: amapola
+ - 3: cuerda
+ - 3: sala_billar
+Jugador 3 nos enseña la carta: cuerda
+
+Acusacion
+ - 2: amapola
+ - 3: pistola
+ - 2: sala_billar
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [amapola,pistola,sala_billar]
+ACUSACION CORRECTA con un total de 4 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [orquidea,mora,punal,tuberia_plomo,cuerda,biblioteca]
+Acusacion
+ - 3: celeste
+ - 3: pistola
+ - 3: comedor
+Jugador 2 nos enseña la carta: comedor
+
+Acusacion
+ - 3: rubio
+ - 3: pistola
+ - 3: estudio
+Jugador 3 nos enseña la carta: rubio
+
+Acusacion
+ - 3: amapola
+ - 2: pistola
+ - 2: estudio
+Jugador 2 nos enseña la carta: amapola
+
+Acusacion
+ - 3: prado
+ - 2: pistola
+ - 2: estudio
+Jugador 2 nos enseña la carta: prado
+
+Acusacion
+ - 3: celeste
+ - 2: pistola
+ - 2: estudio
+Jugador 3 nos enseña la carta: estudio
+
+Acusacion
+ - 2: celeste
+ - 2: pistola
+ - 3: cocina
+Jugador 2 nos enseña la carta: cocina
+
+Acusacion
+ - 2: celeste
+ - 2: pistola
+ - 3: salon
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [celeste,pistola,salon]
+ACUSACION CORRECTA con un total de 7 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [celeste,mora,pistola,herramienta,vestibulo,salon]
+Acusacion
+ - 3: rubio
+ - 3: punal
+ - 3: sala_baile
+Jugador 3 nos enseña la carta: sala_baile
+
+Acusacion
+ - 2: rubio
+ - 2: punal
+ - 3: cocina
+Jugador 2 nos enseña la carta: cocina
+
+Acusacion
+ - 2: rubio
+ - 2: punal
+ - 3: invernadero
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [rubio,punal,invernadero]
+ACUSACION CORRECTA con un total de 3 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [candelabro,pistola,invernadero,comedor,cocina,salon]
+Acusacion
+ - 3: rubio
+ - 3: punal
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: punal
+
+Acusacion
+ - 3: mora
+ - 3: tuberia_plomo
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: tuberia_plomo
+
+Acusacion
+ - 3: orquidea
+ - 3: herramienta
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: orquidea
+
+Acusacion
+ - 3: mora
+ - 3: herramienta
+ - 3: estudio
+Jugador 3 nos enseña la carta: herramienta
+
+Acusacion
+ - 2: mora
+ - 3: cuerda
+ - 2: estudio
+Jugador 3 nos enseña la carta: estudio
+
+Acusacion
+ - 2: mora
+ - 2: cuerda
+ - 3: vestibulo
+Jugador 3 nos enseña la carta: vestibulo
+
+Acusacion
+ - 2: mora
+ - 2: cuerda
+ - 3: biblioteca
+Jugador 3 nos enseña la carta: biblioteca
+
+Acusacion
+ - 2: mora
+ - 2: cuerda
+ - 3: sala_billar
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [mora,cuerda,sala_billar]
+ACUSACION CORRECTA con un total de 8 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [rubio,celeste,tuberia_plomo,cocina,salon,estudio]
+Acusacion
+ - 3: orquidea
+ - 3: herramienta
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: sala_billar
+
+Acusacion
+ - 3: mora
+ - 3: herramienta
+ - 3: sala_baile
+Jugador 3 nos enseña la carta: mora
+
+Acusacion
+ - 3: prado
+ - 2: herramienta
+ - 2: sala_baile
+Jugador 2 nos enseña la carta: prado
+
+Acusacion
+ - 3: orquidea
+ - 2: herramienta
+ - 2: sala_baile
+Jugador 3 nos enseña la carta: herramienta
+
+Acusacion
+ - 2: orquidea
+ - 3: candelabro
+ - 2: sala_baile
+Jugador 3 nos enseña la carta: candelabro
+
+Acusacion
+ - 2: orquidea
+ - 3: cuerda
+ - 2: sala_baile
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [orquidea,cuerda,sala_baile]
+ACUSACION CORRECTA con un total de 6 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [amapola,candelabro,tuberia_plomo,cuerda,comedor,biblioteca]
+Acusacion
+ - 3: mora
+ - 3: pistola
+ - 3: estudio
+Jugador 2 nos enseña la carta: estudio
+
+Acusacion
+ - 3: orquidea
+ - 3: pistola
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: orquidea
+
+Acusacion
+ - 3: rubio
+ - 3: pistola
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: pistola
+
+Acusacion
+ - 3: celeste
+ - 3: punal
+ - 3: invernadero
+Jugador 2 nos enseña la carta: punal
+
+Acusacion
+ - 3: mora
+ - 3: herramienta
+ - 3: sala_billar
+Jugador 3 nos enseña la carta: mora
+
+Acusacion
+ - 3: rubio
+ - 2: herramienta
+ - 2: sala_billar
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [rubio,herramienta,sala_billar]
+ACUSACION CORRECTA con un total de 6 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [orquidea,mora,candelabro,tuberia_plomo,sala_baile,invernadero]
+Acusacion
+ - 3: prado
+ - 3: pistola
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: vestibulo
+
+Acusacion
+ - 3: amapola
+ - 3: cuerda
+ - 3: salon
+Jugador 2 nos enseña la carta: cuerda
+
+Acusacion
+ - 3: prado
+ - 3: punal
+ - 3: comedor
+Jugador 2 nos enseña la carta: prado
+
+Acusacion
+ - 3: celeste
+ - 3: pistola
+ - 3: comedor
+Jugador 2 nos enseña la carta: comedor
+
+Acusacion
+ - 3: rubio
+ - 3: pistola
+ - 3: biblioteca
+Jugador 2 nos enseña la carta: rubio
+
+Acusacion
+ - 3: amapola
+ - 3: punal
+ - 3: sala_billar
+Jugador 3 nos enseña la carta: sala_billar
+
+Acusacion
+ - 2: amapola
+ - 2: punal
+ - 3: salon
+Jugador 3 nos enseña la carta: amapola
+
+Acusacion
+ - 3: celeste
+ - 2: punal
+ - 2: salon
+Jugador 3 nos enseña la carta: salon
+
+Acusacion
+ - 2: celeste
+ - 2: punal
+ - 3: biblioteca
+Jugador 3 nos enseña la carta: punal
+
+Acusacion
+ - 2: celeste
+ - 3: pistola
+ - 2: biblioteca
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [celeste,pistola,biblioteca]
+ACUSACION CORRECTA con un total de 10 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [celeste,cuerda,herramienta,sala_baile,cocina,estudio]
+Acusacion
+ - 3: orquidea
+ - 3: tuberia_plomo
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: orquidea
+
+Acusacion
+ - 3: amapola
+ - 3: punal
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: amapola
+
+Acusacion
+ - 3: prado
+ - 3: candelabro
+ - 3: biblioteca
+Jugador 2 nos enseña la carta: biblioteca
+
+Acusacion
+ - 3: rubio
+ - 3: pistola
+ - 3: comedor
+Jugador 2 nos enseña la carta: comedor
+
+Acusacion
+ - 3: prado
+ - 3: pistola
+ - 3: salon
+Jugador 3 nos enseña la carta: prado
+
+Acusacion
+ - 3: mora
+ - 2: pistola
+ - 2: salon
+Jugador 3 nos enseña la carta: pistola
+
+Acusacion
+ - 2: mora
+ - 3: candelabro
+ - 2: salon
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [mora,candelabro,salon]
+ACUSACION CORRECTA con un total de 7 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [orquidea,punal,cuerda,herramienta,invernadero,biblioteca]
+Acusacion
+ - 3: amapola
+ - 3: pistola
+ - 3: sala_baile
+Jugador 2 nos enseña la carta: amapola
+
+Acusacion
+ - 3: mora
+ - 3: candelabro
+ - 3: sala_billar
+Jugador 3 nos enseña la carta: sala_billar
+
+Acusacion
+ - 2: mora
+ - 2: candelabro
+ - 3: salon
+Jugador 2 nos enseña la carta: salon
+
+Acusacion
+ - 2: mora
+ - 2: candelabro
+ - 3: sala_baile
+Jugador 3 nos enseña la carta: candelabro
+
+Acusacion
+ - 2: mora
+ - 3: pistola
+ - 2: sala_baile
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [mora,pistola,sala_baile]
+ACUSACION CORRECTA con un total de 5 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [rubio,orquidea,candelabro,cuerda,herramienta,sala_baile]
+Acusacion
+ - 3: prado
+ - 3: tuberia_plomo
+ - 3: cocina
+Jugador 2 nos enseña la carta: cocina
+
+Acusacion
+ - 3: celeste
+ - 3: pistola
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: sala_billar
+
+Acusacion
+ - 3: celeste
+ - 3: pistola
+ - 3: biblioteca
+Jugador 2 nos enseña la carta: biblioteca
+
+Acusacion
+ - 3: amapola
+ - 3: pistola
+ - 3: salon
+Jugador 2 nos enseña la carta: amapola
+
+Acusacion
+ - 3: mora
+ - 3: punal
+ - 3: comedor
+Jugador 2 nos enseña la carta: comedor
+
+Acusacion
+ - 3: celeste
+ - 3: punal
+ - 3: invernadero
+Jugador 3 nos enseña la carta: celeste
+
+Acusacion
+ - 3: prado
+ - 2: punal
+ - 2: invernadero
+Jugador 3 nos enseña la carta: prado
+
+Acusacion
+ - 3: mora
+ - 2: punal
+ - 2: invernadero
+Jugador 3 nos enseña la carta: invernadero
+
+Acusacion
+ - 2: mora
+ - 2: punal
+ - 3: salon
+Jugador 3 nos enseña la carta: salon
+
+Acusacion
+ - 2: mora
+ - 2: punal
+ - 3: estudio
+Jugador 3 nos enseña la carta: estudio
+
+Acusacion
+ - 2: mora
+ - 2: punal
+ - 3: vestibulo
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [mora,punal,vestibulo]
+ACUSACION CORRECTA con un total de 11 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [rubio,amapola,sala_baile,sala_billar,invernadero,cocina]
+Acusacion
+ - 3: celeste
+ - 3: punal
+ - 3: salon
+Jugador 2 nos enseña la carta: punal
+
+Acusacion
+ - 3: mora
+ - 3: pistola
+ - 3: biblioteca
+Jugador 2 nos enseña la carta: mora
+
+Acusacion
+ - 3: celeste
+ - 3: tuberia_plomo
+ - 3: biblioteca
+Jugador 2 nos enseña la carta: celeste
+
+Acusacion
+ - 3: orquidea
+ - 3: pistola
+ - 3: estudio
+Jugador 2 nos enseña la carta: orquidea
+
+Acusacion
+ - 3: prado
+ - 3: candelabro
+ - 3: salon
+Jugador 3 nos enseña la carta: salon
+
+Acusacion
+ - 2: prado
+ - 2: candelabro
+ - 3: estudio
+Jugador 2 nos enseña la carta: estudio
+
+Acusacion
+ - 2: prado
+ - 2: candelabro
+ - 3: comedor
+Jugador 2 nos enseña la carta: comedor
+
+Acusacion
+ - 2: prado
+ - 2: candelabro
+ - 3: biblioteca
+Jugador 3 nos enseña la carta: biblioteca
+
+Acusacion
+ - 2: prado
+ - 2: candelabro
+ - 3: vestibulo
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [prado,candelabro,vestibulo]
+ACUSACION CORRECTA con un total de 9 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [amapola,mora,tuberia_plomo,invernadero,vestibulo,biblioteca]
+Acusacion
+ - 3: celeste
+ - 3: herramienta
+ - 3: cocina
+Jugador 2 nos enseña la carta: herramienta
+
+Acusacion
+ - 3: celeste
+ - 3: candelabro
+ - 3: sala_baile
+Jugador 2 nos enseña la carta: sala_baile
+
+Acusacion
+ - 3: prado
+ - 3: candelabro
+ - 3: comedor
+Jugador 2 nos enseña la carta: prado
+
+Acusacion
+ - 3: orquidea
+ - 3: punal
+ - 3: salon
+Jugador 3 nos enseña la carta: punal
+
+Acusacion
+ - 2: orquidea
+ - 3: pistola
+ - 2: salon
+Jugador 2 nos enseña la carta: pistola
+
+Acusacion
+ - 2: orquidea
+ - 3: candelabro
+ - 2: salon
+Jugador 3 nos enseña la carta: salon
+
+Acusacion
+ - 2: orquidea
+ - 2: candelabro
+ - 3: sala_billar
+Jugador 3 nos enseña la carta: orquidea
+
+Acusacion
+ - 3: rubio
+ - 2: candelabro
+ - 2: sala_billar
+Jugador 3 nos enseña la carta: candelabro
+
+Acusacion
+ - 2: rubio
+ - 3: cuerda
+ - 2: sala_billar
+Jugador 3 nos enseña la carta: sala_billar
+
+Acusacion
+ - 2: rubio
+ - 2: cuerda
+ - 3: comedor
+Jugador 2 nos enseña la carta: comedor
+
+Acusacion
+ - 2: rubio
+ - 2: cuerda
+ - 3: estudio
+Jugador 2 nos enseña la carta: estudio
+
+Acusacion
+ - 2: rubio
+ - 2: cuerda
+ - 3: cocina
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [rubio,cuerda,cocina]
+ACUSACION CORRECTA con un total de 12 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [orquidea,herramienta,sala_billar,invernadero,cocina,salon]
+Acusacion
+ - 3: rubio
+ - 3: punal
+ - 3: estudio
+Jugador 2 nos enseña la carta: estudio
+
+Acusacion
+ - 3: celeste
+ - 3: tuberia_plomo
+ - 3: comedor
+Jugador 2 nos enseña la carta: celeste
+
+Acusacion
+ - 3: mora
+ - 3: punal
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: punal
+
+Acusacion
+ - 3: prado
+ - 3: tuberia_plomo
+ - 3: comedor
+Jugador 3 nos enseña la carta: tuberia_plomo
+
+Acusacion
+ - 2: prado
+ - 3: candelabro
+ - 2: comedor
+Jugador 2 nos enseña la carta: candelabro
+
+Acusacion
+ - 2: prado
+ - 3: pistola
+ - 2: comedor
+Jugador 3 nos enseña la carta: prado
+
+Acusacion
+ - 3: mora
+ - 2: pistola
+ - 2: comedor
+Jugador 3 nos enseña la carta: mora
+
+Acusacion
+ - 3: amapola
+ - 2: pistola
+ - 2: comedor
+Jugador 3 nos enseña la carta: pistola
+
+Acusacion
+ - 2: amapola
+ - 3: cuerda
+ - 2: comedor
+Jugador 3 nos enseña la carta: amapola
+
+Acusacion
+ - 3: rubio
+ - 2: cuerda
+ - 2: comedor
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [rubio,cuerda,comedor]
+ACUSACION CORRECTA con un total de 10 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [prado,celeste,punal,pistola,herramienta,comedor]
+Acusacion
+ - 3: rubio
+ - 3: cuerda
+ - 3: vestibulo
+Jugador 3 nos enseña la carta: cuerda
+
+Acusacion
+ - 2: rubio
+ - 3: candelabro
+ - 2: vestibulo
+Jugador 3 nos enseña la carta: candelabro
+
+Acusacion
+ - 2: rubio
+ - 3: tuberia_plomo
+ - 2: vestibulo
+Jugador 3 nos enseña la carta: rubio
+
+Acusacion
+ - 3: amapola
+ - 2: tuberia_plomo
+ - 2: vestibulo
+Jugador 2 nos enseña la carta: amapola
+
+Acusacion
+ - 3: mora
+ - 2: tuberia_plomo
+ - 2: vestibulo
+Jugador 2 nos enseña la carta: mora
+
+Acusacion
+ - 3: orquidea
+ - 2: tuberia_plomo
+ - 2: vestibulo
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [orquidea,tuberia_plomo,vestibulo]
+ACUSACION CORRECTA con un total de 6 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [prado,mora,candelabro,cuerda,sala_baile,sala_billar]
+Acusacion
+ - 3: amapola
+ - 3: pistola
+ - 3: comedor
+Jugador 2 nos enseña la carta: amapola
+
+Acusacion
+ - 3: celeste
+ - 3: herramienta
+ - 3: biblioteca
+Jugador 2 nos enseña la carta: herramienta
+
+Acusacion
+ - 3: orquidea
+ - 3: tuberia_plomo
+ - 3: cocina
+Jugador 2 nos enseña la carta: cocina
+
+Acusacion
+ - 3: rubio
+ - 3: punal
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: punal
+
+Acusacion
+ - 3: celeste
+ - 3: pistola
+ - 3: biblioteca
+Jugador 3 nos enseña la carta: biblioteca
+
+Acusacion
+ - 2: celeste
+ - 2: pistola
+ - 3: vestibulo
+Jugador 3 nos enseña la carta: pistola
+
+Acusacion
+ - 2: celeste
+ - 3: tuberia_plomo
+ - 2: vestibulo
+Jugador 3 nos enseña la carta: celeste
+
+Acusacion
+ - 3: rubio
+ - 2: tuberia_plomo
+ - 2: vestibulo
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [rubio,tuberia_plomo,vestibulo]
+ACUSACION CORRECTA con un total de 8 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [amapola,celeste,candelabro,herramienta,comedor,vestibulo]
+Acusacion
+ - 3: rubio
+ - 3: pistola
+ - 3: cocina
+Jugador 3 nos enseña la carta: rubio
+
+Acusacion
+ - 3: mora
+ - 2: pistola
+ - 2: cocina
+Jugador 3 nos enseña la carta: mora
+
+Acusacion
+ - 3: orquidea
+ - 2: pistola
+ - 2: cocina
+Jugador 3 nos enseña la carta: orquidea
+
+Acusacion
+ - 3: prado
+ - 2: pistola
+ - 2: cocina
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [prado,pistola,cocina]
+ACUSACION CORRECTA con un total de 4 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [rubio,orquidea,punal,cuerda,cocina,estudio]
+Acusacion
+ - 3: mora
+ - 3: pistola
+ - 3: invernadero
+Jugador 3 nos enseña la carta: mora
+
+Acusacion
+ - 3: celeste
+ - 2: pistola
+ - 2: invernadero
+Jugador 2 nos enseña la carta: celeste
+
+Acusacion
+ - 3: amapola
+ - 2: pistola
+ - 2: invernadero
+Jugador 3 nos enseña la carta: pistola
+
+Acusacion
+ - 2: amapola
+ - 3: herramienta
+ - 2: invernadero
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [amapola,herramienta,invernadero]
+ACUSACION CORRECTA con un total de 4 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [prado,orquidea,cuerda,herramienta,biblioteca,estudio]
+Acusacion
+ - 3: mora
+ - 3: tuberia_plomo
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: tuberia_plomo
+
+Acusacion
+ - 3: celeste
+ - 3: pistola
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: sala_billar
+
+Acusacion
+ - 3: mora
+ - 3: candelabro
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: candelabro
+
+Acusacion
+ - 3: celeste
+ - 3: punal
+ - 3: sala_baile
+Jugador 3 nos enseña la carta: sala_baile
+
+Acusacion
+ - 2: celeste
+ - 2: punal
+ - 3: vestibulo
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [celeste,punal,vestibulo]
+ACUSACION CORRECTA con un total de 5 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [amapola,candelabro,sala_baile,invernadero,comedor,cocina]
+Acusacion
+ - 3: orquidea
+ - 3: herramienta
+ - 3: biblioteca
+Jugador 2 nos enseña la carta: herramienta
+
+Acusacion
+ - 3: prado
+ - 3: pistola
+ - 3: estudio
+Jugador 2 nos enseña la carta: prado
+
+Acusacion
+ - 3: celeste
+ - 3: tuberia_plomo
+ - 3: salon
+Jugador 2 nos enseña la carta: tuberia_plomo
+
+Acusacion
+ - 3: rubio
+ - 3: cuerda
+ - 3: salon
+Jugador 2 nos enseña la carta: cuerda
+
+Acusacion
+ - 3: mora
+ - 3: pistola
+ - 3: vestibulo
+Jugador 2 nos enseña la carta: vestibulo
+
+Acusacion
+ - 3: rubio
+ - 3: punal
+ - 3: sala_billar
+Jugador 3 nos enseña la carta: rubio
+
+Acusacion
+ - 3: mora
+ - 2: punal
+ - 2: sala_billar
+Jugador 3 nos enseña la carta: sala_billar
+
+Acusacion
+ - 2: mora
+ - 2: punal
+ - 3: biblioteca
+Jugador 3 nos enseña la carta: punal
+
+Acusacion
+ - 2: mora
+ - 3: pistola
+ - 2: biblioteca
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [mora,pistola,biblioteca]
+ACUSACION CORRECTA con un total de 9 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [celeste,mora,punal,pistola,sala_baile,sala_billar]
+Acusacion
+ - 3: orquidea
+ - 3: herramienta
+ - 3: cocina
+Jugador 2 nos enseña la carta: herramienta
+
+Acusacion
+ - 3: orquidea
+ - 3: tuberia_plomo
+ - 3: comedor
+Jugador 2 nos enseña la carta: comedor
+
+Acusacion
+ - 3: amapola
+ - 3: candelabro
+ - 3: invernadero
+Jugador 2 nos enseña la carta: invernadero
+
+Acusacion
+ - 3: orquidea
+ - 3: candelabro
+ - 3: estudio
+Jugador 2 nos enseña la carta: candelabro
+
+Acusacion
+ - 3: rubio
+ - 3: tuberia_plomo
+ - 3: salon
+Jugador 3 nos enseña la carta: rubio
+
+Acusacion
+ - 3: amapola
+ - 2: tuberia_plomo
+ - 2: salon
+Jugador 2 nos enseña la carta: amapola
+
+Acusacion
+ - 3: prado
+ - 2: tuberia_plomo
+ - 2: salon
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [prado,tuberia_plomo,salon]
+ACUSACION CORRECTA con un total de 7 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [orquidea,candelabro,tuberia_plomo,cuerda,herramienta,comedor]
+Acusacion
+ - 3: prado
+ - 3: pistola
+ - 3: sala_baile
+Jugador 2 nos enseña la carta: sala_baile
+
+Acusacion
+ - 3: amapola
+ - 3: punal
+ - 3: cocina
+Jugador 2 nos enseña la carta: punal
+
+Acusacion
+ - 3: amapola
+ - 3: pistola
+ - 3: biblioteca
+Jugador 3 nos enseña la carta: biblioteca
+
+Acusacion
+ - 2: amapola
+ - 2: pistola
+ - 3: invernadero
+Jugador 3 nos enseña la carta: invernadero
+
+Acusacion
+ - 2: amapola
+ - 2: pistola
+ - 3: cocina
+Jugador 2 nos enseña la carta: cocina
+
+Acusacion
+ - 2: amapola
+ - 2: pistola
+ - 3: salon
+Jugador 3 nos enseña la carta: salon
+
+Acusacion
+ - 2: amapola
+ - 2: pistola
+ - 3: estudio
+Jugador 2 nos enseña la carta: estudio
+
+Acusacion
+ - 2: amapola
+ - 2: pistola
+ - 3: sala_billar
+Jugador 3 nos enseña la carta: amapola
+
+Acusacion
+ - 3: rubio
+ - 2: pistola
+ - 2: sala_billar
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [rubio,pistola,sala_billar]
+ACUSACION CORRECTA con un total de 9 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [rubio,orquidea,pistola,cuerda,herramienta,vestibulo]
+Acusacion
+ - 3: celeste
+ - 3: punal
+ - 3: cocina
+Jugador 2 nos enseña la carta: punal
+
+Acusacion
+ - 3: mora
+ - 3: tuberia_plomo
+ - 3: biblioteca
+Jugador 2 nos enseña la carta: mora
+
+Acusacion
+ - 3: celeste
+ - 3: tuberia_plomo
+ - 3: sala_baile
+Jugador 2 nos enseña la carta: celeste
+
+Acusacion
+ - 3: prado
+ - 3: tuberia_plomo
+ - 3: sala_baile
+Jugador 2 nos enseña la carta: sala_baile
+
+Acusacion
+ - 3: amapola
+ - 3: tuberia_plomo
+ - 3: comedor
+Jugador 3 nos enseña la carta: comedor
+
+Acusacion
+ - 2: amapola
+ - 2: tuberia_plomo
+ - 3: sala_billar
+Jugador 2 nos enseña la carta: sala_billar
+
+Acusacion
+ - 2: amapola
+ - 2: tuberia_plomo
+ - 3: invernadero
+Jugador 3 nos enseña la carta: invernadero
+
+Acusacion
+ - 2: amapola
+ - 2: tuberia_plomo
+ - 3: cocina
+Jugador 3 nos enseña la carta: cocina
+
+Acusacion
+ - 2: amapola
+ - 2: tuberia_plomo
+ - 3: salon
+Jugador 3 nos enseña la carta: salon
+
+Acusacion
+ - 2: amapola
+ - 2: tuberia_plomo
+ - 3: biblioteca
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [amapola,tuberia_plomo,biblioteca]
+ACUSACION CORRECTA con un total de 10 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [orquidea,tuberia_plomo,cuerda,sala_billar,comedor,cocina]
+Acusacion
+ - 3: celeste
+ - 3: pistola
+ - 3: invernadero
+Jugador 2 nos enseña la carta: celeste
+
+Acusacion
+ - 3: amapola
+ - 3: herramienta
+ - 3: biblioteca
+Jugador 3 nos enseña la carta: biblioteca
+
+Acusacion
+ - 2: amapola
+ - 2: herramienta
+ - 3: sala_baile
+Jugador 2 nos enseña la carta: sala_baile
+
+Acusacion
+ - 2: amapola
+ - 2: herramienta
+ - 3: invernadero
+Jugador 3 nos enseña la carta: herramienta
+
+Acusacion
+ - 2: amapola
+ - 3: punal
+ - 2: invernadero
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [amapola,punal,invernadero]
+ACUSACION CORRECTA con un total de 5 acusaciones.
+
+¿Quieres jugar otra partida? s/n: s.
+
+Mis cartas: [orquidea,celeste,mora,candelabro,pistola,sala_baile]
+Acusacion
+ - 3: rubio
+ - 3: herramienta
+ - 3: salon
+Jugador 2 nos enseña la carta: herramienta
+
+Acusacion
+ - 3: prado
+ - 3: cuerda
+ - 3: sala_billar
+Jugador 3 nos enseña la carta: cuerda
+
+Acusacion
+ - 2: prado
+ - 3: punal
+ - 2: sala_billar
+Jugador 2 nos enseña la carta: punal
+
+Acusacion
+ - 2: prado
+ - 3: tuberia_plomo
+ - 2: sala_billar
+Jugador 3 nos enseña la carta: sala_billar
+
+Acusacion
+ - 2: prado
+ - 2: tuberia_plomo
+ - 3: invernadero
+Jugador 2 nos enseña la carta: invernadero
+
+Acusacion
+ - 2: prado
+ - 2: tuberia_plomo
+ - 3: salon
+Jugador 3 nos enseña la carta: salon
+
+Acusacion
+ - 2: prado
+ - 2: tuberia_plomo
+ - 3: estudio
+Jugador 3 nos enseña la carta: estudio
+
+Acusacion
+ - 2: prado
+ - 2: tuberia_plomo
+ - 3: comedor
+Jugador 3 nos enseña la carta: comedor
+
+Acusacion
+ - 2: prado
+ - 2: tuberia_plomo
+ - 3: biblioteca
+Ninguno tiene ninguna
+
+VAMOS A HACER LA ACUSACION FINAL
+ - ACUSACION FINAL: [prado,tuberia_plomo,biblioteca]
+ACUSACION CORRECTA con un total de 9 acusaciones.
+
+¿Quieres jugar otra partida? s/n: n.
+
+
+Ciao Listener finished
